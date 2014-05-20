@@ -124,7 +124,6 @@ a:visited { color: #205caa; }
   letter-spacing: -.3px;
   color: #828282;
   height:80px;
-  fontsize:40;
 }
 
 .github-icon-svg,
