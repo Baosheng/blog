@@ -419,9 +419,13 @@ a:visited { color: #205caa; }
 {
    height:80px;
 }
-#footer-wrap
+#footer-email
 {
-   height:80px;
+   height:70px;
+   display:block;
+   padding:5px;
+   padding-left:80px;
+   float:left;
 }
 #header-home
 {
