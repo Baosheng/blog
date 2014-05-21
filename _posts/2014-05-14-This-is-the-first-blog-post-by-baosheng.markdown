@@ -3,7 +3,6 @@ layout: post
 title:  "This is the first blog post by baosheng"
 date:   2014-05-14 15:15:41
 categories: jekyll update
-author:yubaosheng
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
