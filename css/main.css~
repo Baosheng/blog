@@ -164,7 +164,7 @@ a:visited { color: #205caa; }
 .posts li { margin-bottom: 30px; }
 
 .posts .post-link {
-  font-size: 24px;
+  font-size: 20px;
   letter-spacing: -1px;
   line-height: 1;
 }
@@ -445,11 +445,11 @@ a:visited { color: #205caa; }
     line-height: 36px;
 }
 
-#
 #new-blog
 {
     display: block;
     font-size: 30px;
     color:white;
+    padding-top:10px;
     
 }
