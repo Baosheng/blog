@@ -143,8 +143,8 @@ a:visited { color: #205caa; }
 
 .page-content {
   padding: 1px 0;
-  background-color:#222222;
-  min-height:435px;
+  background-color:black;
+  min-height:430px;
 }
 
 
