@@ -424,7 +424,7 @@ a:visited { color: #205caa; }
 {
     display: block;
     font-size: 24px;
-    color: #505050;
+    
     float: right;
     width: 50px;
     text-align: center;
