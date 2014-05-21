@@ -84,6 +84,7 @@ a:visited { color: #205caa; }
   border:none;
   border-top: 1px solid #e8e8e8;
   padding: 0;
+  height:80px;
   
 	
 }
@@ -425,7 +426,9 @@ a:visited { color: #205caa; }
    display:block;
    padding:5px;
    padding-left:80px;
-  
+   float:left;
+   font-size:25px;
+   
 }
 #header-home
 {
