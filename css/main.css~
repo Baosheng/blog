@@ -30,7 +30,7 @@ a:visited { color: #205caa; }
 .wrap:after { clear: both; }
 .wrap {
  
-  padding: 0 120px;
+  padding: 0 80px;
   margin: 0 auto;
   zoom: 1;
   background-color:black;
@@ -412,4 +412,21 @@ a:visited { color: #205caa; }
     width: auto;
     margin: 0 0 15px; }
 
+}
+
+
+#header-wrap
+{
+   height:80px;
+}
+
+#header-home
+{
+    display: block;
+    font-size: 24px;
+    color: #505050;
+    float: right;
+    width: 50px;
+    text-align: center;
+    line-height: 36px;
 }
