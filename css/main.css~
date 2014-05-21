@@ -157,16 +157,17 @@ a:visited { color: #205caa; }
 /* Home styles */
 /* ----------------------------------------------------------*/
 
-.home h1 { margin-bottom: 25px; }
+.home h1 { margin-bottom: 10px; }
 
 .posts { list-style-type: none; }
 
-.posts li { margin-bottom: 30px; }
+.posts li { margin-bottom: 10px; }
 
 .posts .post-link {
   font-size: 20px;
-  letter-spacing: -1px;
+  letter-spacing: 0px;
   line-height: 1;
+  color:white;
 }
 
 .posts .post-date {
