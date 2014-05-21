@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1 id="new-blog" >New Blog.</h1>
+  <h1 id="new-blog" >New Posts</h1>
 
   <ul class="posts">
     {% for post in site.posts %}
