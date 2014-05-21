@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This is the first blog post by baosheng."
+title:  "This is the first blog post by baosheng"
 date:   2014-05-14 15:15:41
 categories: jekyll update
 ---
